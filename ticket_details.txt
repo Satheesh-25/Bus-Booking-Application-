@@ -1,0 +1,13 @@
+🚌🚌🚌 BUS TICKET 🚌🚌🚌
+Passenger: satheesh
+From     : chennai
+To       : Bangalore
+Route    : chennai → Bangalore
+Date     : 2025-07-27
+Seat     : A9
+Gender   : Male
+Age      : 23
+Phone    : 6382870039
+Email    : sk0021442@gmail.com
+QR Code: ticket_qr.png
+Have a safe journey! 😊
